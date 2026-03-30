@@ -1,0 +1,11 @@
+{
+  "version": "0.2.5",
+  "notes": "Mise a jour interface",
+  "pub_date": "2026-03-30T18:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "untrusted comment: signature from tauri secret key\nRUR4bPvje0prUj7dR2wEZAtFlD0+F3wW92DsOx4k66AKBDCiZAMktCzW5i/a+iq+KbnJABN2ky7GSMcn6gwrJUdKv19ts/bjnAE=\ntrusted comment: timestamp:1774884608\tfile:Galactics Of Cards_0.2.5_x64-setup.exe\nfdcjDCr/CgCXnd0UE816tTz7PLNzsctIhKVGULDZ9ewspcEMvryohQC9xiw6tRPkVtHfLscbRvNhmP3yEAKgCg==",
+      "url": "https://github.com/WatZeFuuk/galactics-of-cards-updates/releases/download/v0.2.5/Galactics.Of.Cards_0.2.5_x64-setup.exe"
+    }
+  }
+}
